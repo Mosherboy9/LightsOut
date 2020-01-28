@@ -1,0 +1,9 @@
+C:\Users\Jason\Desktop\Lights Out\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\Jason\Desktop\Lights Out\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\Jason\Desktop\Lights Out\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.LightsOut.resources
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.cache
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\Jason\Desktop\Lights Out\LightsOut\obj\Debug\LightsOut.pdb
